@@ -1,0 +1,27 @@
+﻿  Graph.cpp
+C:\Users\Alina\source\repos\test\test\Graph.cpp(179,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(180,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(319,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(344,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(352,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(392,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(395,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(426,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(429,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(474,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(477,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(521,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(524,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(555,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(558,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(589,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(592,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(637,31): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Alina\source\repos\test\test\Graph.cpp(753,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Alina\source\repos\test\test\Graph.cpp(754,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Alina\source\repos\test\test\Graph.cpp(974,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(978,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alina\source\repos\test\test\Graph.cpp(1062,23): warning C4018: <: несоответствие типов со знаком и без знака
+  MainFile.cpp
+  Создание кода...
+  test.vcxproj -> C:\Users\Alina\source\repos\test\Debug\test.exe

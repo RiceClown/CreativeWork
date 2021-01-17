@@ -1,0 +1,5 @@
+C:\Users\Alina\Desktop\CALC_DROB\x64\Debug\CALC_DROB.vcxprojAssemblyReference.cache
+C:\Users\Alina\Desktop\CALC_DROB\x64\Debug\CALCDROB.MyForm.resources
+C:\Users\Alina\Desktop\CALC_DROB\x64\Debug\CALC_DROB.vcxproj.GenerateResource.cache
+C:\Users\Alina\Desktop\CALC_DROB\x64\Debug\CALC_DROB.exe
+C:\Users\Alina\Desktop\CALC_DROB\x64\Debug\CALC_DROB.pdb

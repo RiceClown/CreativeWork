@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Alina\Desktop\CALC_DROB\MyForm.h(990,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alina\Desktop\CALC_DROB\MyForm.h(991,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alina\Desktop\CALC_DROB\MyForm.h(997,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Alina\Desktop\CALC_DROB\MyForm.h(998,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CALC_DROB.vcxproj -> C:\Users\Alina\Desktop\CALC_DROB\x64\Debug\CALC_DROB.exe
